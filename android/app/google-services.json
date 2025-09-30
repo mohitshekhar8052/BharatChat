@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "273572564767",
+    "project_id": "xtrchat-a1def",
+    "storage_bucket": "xtrchat-a1def.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273572564767:android:6db08cc5abc2a37dec2a2a",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudVqJrOmqbYLuTEySQzLK6l0BIG2o3IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273572564767:android:3375cfd6b1ef2f3aec2a2a",
+        "android_client_info": {
+          "package_name": "com.xtrchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudVqJrOmqbYLuTEySQzLK6l0BIG2o3IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273572564767:android:4486cfd6b1ef2f4bec2a2a",
+        "android_client_info": {
+          "package_name": "com.BharatChat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudVqJrOmqbYLuTEySQzLK6l0BIG2o3IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
